@@ -1,0 +1,7 @@
+p4ul4jb45t05
+
+
+ssh-copy-id "projects1@186.202.153.35  -p 22"
+
+
+$ ssh-copy-id localhost  The neat thing about this is you can do it to any
